@@ -1,4 +1,4 @@
-<div align="center">
+![ezgif-2abf7f0f9f74038f](https://github.com/user-attachments/assets/31d76e55-d00a-4118-9dbf-7a885f659219)<div align="center">
 
 # 🎮 Game Specific Patches & DLL Wrappers  
 
@@ -18,6 +18,9 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 # James Bond Quantum of Solace PC Fix
 
 This fix is designed with only the Single Player portion of the game in mind. If you wish to play the Multiplayer side, then please go to Plutonium Client where they deal with this side of the game.
+
+![ezgif-2abf7f0f9f74038f](https://github.com/user-attachments/assets/a541c1b1-efdf-43f4-a0ff-023510671990)
+
 
 # Instructions
 Go to release, download the JamesBondQuantumofSolaceFix.zip file and extract it, then put the d3d9.dll and d3d9.ini files into your game folder next to the JB_Launcher_s.exe file. 
