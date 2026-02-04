@@ -80,11 +80,11 @@ you can use controller also for the MOD menu as follows:
 
           xbox input ----------------------- keyboard input  ------------------ action
           Select -------------------------------- tab---------------------- open phone menu
-          RB + UP -------------------------------- 2----------------------- start the mod menu
+          LB + UP -------------------------------- 2----------------------- start the mod menu
           Start --------------------------------- esc --------------------- back to game 
           Right trigger/ Left Trigger --------- rmb/lmb ---------------  navigate the mod menu
           X -------------------------------------- F ------------------- Select things in the menu 
-          RB + Down ------------------------------ Q ---------------------- Quit the menu
+          LB + Down ------------------------------ Q ---------------------- Quit the menu
 
 # Mod Menu
 This fix includes the mod menu from https://www.speedrun.com/qos/resources/6sb4i for convenience of the end user to have everything all together in one fix and to preserve the menu so that it is not lost. 
@@ -98,11 +98,11 @@ you can use controller also for the MOD menu as follows:
 
           xbox input ----------------------- keyboard input  ------------------ action
           Select -------------------------------- tab---------------------- open phone menu
-          RB + UP -------------------------------- 2----------------------- start the mod menu
+          LB + UP -------------------------------- 2----------------------- start the mod menu
           Start --------------------------------- esc --------------------- back to game 
           Right trigger/ Left Trigger --------- rmb/lmb ---------------  navigate the mod menu
           X -------------------------------------- F ------------------- Select things in the menu 
-          RB + Down ------------------------------ Q ---------------------- Quit the menu
+          LB + Down ------------------------------ Q ---------------------- Quit the menu
 
 # Vote to see the game return via GOG Dreamlist
 If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/james-bond-007-quantum-of-solace-2008 
