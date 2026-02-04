@@ -31,9 +31,12 @@ This fix is designed with only the Single Player portion of the game in mind. If
 
 
 # Instructions
-Go to release, download the JamesBondQuantumofSolaceFix.zip file and extract it, then put the d3d9.dll and d3d9.ini files into your game folder next to the JB_Launcher_s.exe file. 
+Go to release, download the JamesBondQuantumofSolaceFix.zip file (d3d9 wrapper) or JamesBondQOSFixASI.zip (stand alone DLL as .asi extention using 13ag ultimate asi loader for people who wish to use in tandem with other dlls.) and extract either one that you choose, then put the d3d9.dll and d3d9.ini files into your game folder next to the JB_Launcher_s.exe file. 
 
-You can edit the settings you wish to use in the d3d9.ini file.
+**For standard users it is highly recommended to just use JamesBondQuantumofSolaceFix.zip file (d3d9 wrapper)**
+
+You can edit the settings you wish to use in JamesBondQuantumofSolaceFix.zip in the d3d9.ini file.
+or for JamesBondQOSFixASI.zip (scripts -> chip.ini)
 
 # FPS
 Default for FPS is 60 which you can change in the d3d9.ini file. The user can use the FPS toggle if they find it breaks at certain points at too high FPS. The toggle will set it back down to the original 30fps. When in game, press the hotkey the user has chosen in [hotkey]keycodes.txt and enter the virtual code in the d3d9.ini to toggle between the original and the new FPS setting.
